@@ -19,3 +19,11 @@ Century Dice is a captivating and competitive dice game that pits two players in
 - style.css: Styles to make the game visually appealing.
 - script.js: The game logic to make it functional and interactive.
 - A flowchart diagram is included within the project directory to illustrate the game's logic.
+
+## Screenshots
+![Screenshot 2023-12-24 185536](https://github.com/shubhankarsapa/First-to-100-Dice-Roll/assets/68692398/b91cb133-d15c-46f2-bac1-41fcd8859216)
+![Screenshot 2023-12-24 190548](https://github.com/shubhankarsapa/First-to-100-Dice-Roll/assets/68692398/261a54d8-619f-4b77-90c4-a48481d3b978)
+![Screenshot 2023-12-24 190618](https://github.com/shubhankarsapa/First-to-100-Dice-Roll/assets/68692398/b42d5909-6aca-4167-b5de-21b057c75169)
+
+
+
