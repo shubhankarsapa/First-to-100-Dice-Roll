@@ -1,6 +1,7 @@
 # Century-Dice
 ## Overview
 Century Dice is a captivating and competitive dice game that pits two players in a race to score a century of points. This browser-based game transforms a simple roll of the dice into a suspenseful journey towards victory. Each turn is a mix of risk and reward, as players decide whether to bank their points or roll again for a higher score. The game is intuitive yet unpredictable, offering endless fun as players strategize to outmaneuver each other on their way to 100 points.
+Live Project : https://sapa-dice100.netlify.app/
 
 ## How to Play
 - Players take turns to roll a die, accumulating points in a temporary score.
